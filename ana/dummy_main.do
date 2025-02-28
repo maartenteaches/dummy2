@@ -6,7 +6,7 @@ macro drop _all
 // the ado directory local to this project
 *cd "d:\mijn documenten\onderwijs\konstanz\stata\open_science\dummy\"
 *cd "h:\open_science\dummy\"
-cd "c:\mijn documenten\onderwijs\konstanz\stata\open_science\dummy\"
+cd "c:\mijn documenten\onderwijs\konstanz\stata\open_science\dummy_2\"
 
 sysdir set PLUS     "`c(pwd)'/ado/plus"
 sysdir set PERSONAL "`c(pwd)'/ado/personal"

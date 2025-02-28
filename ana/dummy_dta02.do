@@ -8,7 +8,7 @@ version 18
 clear all
 macro drop _all
 
-use ../data/dummy_v0-1-0
+use ../data/raw
 
 rename *, lower
 keep id v01 v02 v20 v23
